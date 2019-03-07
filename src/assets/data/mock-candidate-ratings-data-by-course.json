@@ -1,0 +1,14 @@
+[
+{
+  "label": "Passed",
+  "value" : "600"
+},
+{
+  "label": "Failed",
+  "value" : "400"
+},
+{
+  "label": "Retakes",
+  "value" : "250"
+}
+]

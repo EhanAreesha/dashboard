@@ -1,0 +1,103 @@
+[
+  {
+    "title": "What overall rating would you give the course?",
+    "minScore": "0",
+    "maxScore": "5",
+    "avgScore": "4",
+    "candidates": [
+      {
+        "candidateId": "orroqfoi0234324091qdje",
+        "ratingScore" : "3"
+      },
+      {
+        "candidateId": "orroqfoi09214u091qdjqo",
+        "ratingScore" : "4"
+      },
+      {
+        "candidateId": "orroqfoi09214u091qdwe1",
+        "ratingScore" : "5"
+      }
+    ]
+  },
+  {
+    "title": "The course objectives were clear?",
+    "minScore": "0",
+    "maxScore": "5",
+    "avgScore": "2.75",
+    "candidates": [
+      {
+        "candidateId": "orroqfoi09214u091qdjqo",
+        "ratingScore" : "3"
+      },
+      {
+        "candidateId": "orroqfoi0234324091qdje",
+        "ratingScore" : "2.5"
+      }
+    ]
+  },
+  {
+    "title": "The assignments were appropriate for the level of this course?",
+    "minScore": "0",
+    "maxScore": "5",
+    "avgScore": "2.33",
+    "candidates": [
+      {
+        "candidateId": "orroqfoi09214u091qdjqo",
+        "ratingScore" : "2"
+      },
+      {
+        "candidateId": "orroqfoi0234324091qdje",
+        "ratingScore" : "2.5"
+      },
+      {
+        "candidateId": "orroqfoi0234324091qdzsw",
+        "ratingScore" : "2.5"
+      }
+    ]
+  },
+  {
+    "title": "What overall rating would you give the faculty?",
+    "minScore": "0",
+    "maxScore": "5",
+    "avgScore": "3",
+    "candidates": [
+      {
+        "candidateId": "orroqfoi09214u091qdjqew",
+        "ratingScore" : "2"
+      },
+      {
+        "candidateId": "orroqfoi0234324091qdje",
+        "ratingScore" : "3"
+      },
+      {
+        "candidateId": "orroqfoi0234324091qdzsw",
+        "ratingScore" : "4"
+      }
+    ]
+  },
+  {
+    "title": "Would you recommend this course to other students?",
+    "minScore": "0",
+    "maxScore": "5",
+    "avgScore": "4",
+    "candidates": [
+      {
+        "candidateId": "orroqfoi09214u091qdjqew",
+        "ratingScore" : "4"
+      },
+      {
+        "candidateId": "orroqfoi0234324091qdje",
+        "ratingScore" : "3"
+      },
+      {
+        "candidateId": "orroqfoi0234324091qdzsw",
+        "ratingScore" : "4"
+      },
+      {
+        "candidateId": "orroqfoi0234324091qdzsw",
+        "ratingScore" : "5"
+      }
+    ]
+  }
+  ]
+  

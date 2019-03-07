@@ -1,0 +1,22 @@
+[
+{
+  "label": "Not Started",
+  "value" : "4"
+},
+{
+  "label": "Completed",
+  "value" : "6"
+},
+{
+  "label": "In Progress",
+  "value" : "4"
+},
+{
+  "label": "Abandoned",
+  "value" : "3"
+},
+{
+  "label": "Overdue",
+  "value" : "5"
+}
+]

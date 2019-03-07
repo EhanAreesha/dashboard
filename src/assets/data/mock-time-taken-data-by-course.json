@@ -1,0 +1,38 @@
+[
+  {
+    "title": "AngularJS",
+    "candidates": [
+      {
+        "candidateId": "orroqfoi0234324091qdje",
+        "candidateName": "Mr. Alies",
+        "completionTime" : "20"
+      },
+      {
+        "candidateId": "orroqfoi09214u091qdjqo",
+        "candidateName": "Mr. Parker",
+        "completionTime" : "12"
+      },
+      {
+        "candidateId": "orroqfoi09214u091qdwe1",
+        "candidateName": "Mr. Dunny Alien",
+        "completionTime" : "14"
+      },
+      {
+        "candidateId": "orroqfoi0234324091qdpo",
+        "candidateName": "Mr. Bean",
+        "completionTime" : "25"
+      },
+      {
+        "candidateId": "orroqfoi09214u091qdjrte",
+        "candidateName": "Mr. Junker",
+        "completionTime" : "16"
+      },
+      {
+        "candidateId": "orroqfoi09214u091qdwewe",
+        "candidateName": "Mr. Alberts",
+        "completionTime" : "21"
+      }
+    ]
+  }
+  ]
+  

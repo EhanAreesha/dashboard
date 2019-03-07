@@ -1,0 +1,22 @@
+[
+{
+  "label": "AngularJS",
+  "value" : "500"
+},
+{
+  "label": "Python",
+  "value" : "700"
+},
+{
+  "label": "JavaScript",
+  "value" : "700"
+},
+{
+  "label": "Android",
+  "value" : "400"
+},
+{
+  "label": "Golang",
+  "value" : "900"
+}
+]

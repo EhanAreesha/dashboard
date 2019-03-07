@@ -1,0 +1,22 @@
+[
+  {
+    "courses": [
+      {
+        "courseId": "orroqfoi0234324091qdje",
+        "courseName": "AngularJS",
+        "aggregatedTime" : "1040"
+      },
+      {
+        "courseId": "orroqfoi0234324091qdje",
+        "courseName": "JavaScript",
+        "aggregatedTime" : "1720"
+      },
+      {
+        "courseId": "orroqfoi0234324091qdje",
+        "courseName": "Python",
+        "aggregatedTime" : "1480"
+      }
+    ]
+  }
+  ]
+  
